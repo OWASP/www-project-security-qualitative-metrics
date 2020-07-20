@@ -1,4 +1,2 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Ferda Özdemir Sönmez](mailto:ferdaozdemir@gmail.com)
