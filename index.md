@@ -1,27 +1,3 @@
----
-
-layout: col-sidebar
-title: OWASP Security Qualitative Metrics
-tags: example-tag
-level: 1
-type: 
-pitch: A very brief, one-line description of your project
-
----
-
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
-type: code, tool, documentation, or other
-
-
 # ![Project Logo](images/logo_100px.png) OWASP GitHub Template [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects) [![GitHub release](https://img.shields.io/github/release/owasp/github-template.svg)](https://github.com/owasp/github-template/releases/latest)
 
 [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects)
@@ -34,10 +10,6 @@ The focus of this project is to find out repeatable features for large-scale ent
 
 
 ![OWASP GitHub Template screenshot 2](images/screenshot2.png)
-
-_**TODO:** Replace screenshots above with your own._
-
-
 
 
 ![Figure 1](images/screenshot1.png)
@@ -55,7 +27,7 @@ The security qualitative metrics list is the result of examination and evaluatio
 
 ## How to Use OWASP Security Qualitative Metrics
 
-These classified findings would be beneficial from the initial phases of application development including analysis, design, implementation, and test. Having this categorized security qualitative metrics would allow knowing the security status and OWASP compliance results for the project, and would help to make better technology, environment, design, and implementation related decisions by various project stakeholders.
+These classified findings would be beneficial from the initial phases of application development including analysis, design, implementation, and test. Having this categorized security qualitative metrics would allow knowing the security status and OWASP compliance results for the project, and would help to make better technology, environment, design, and implementation related decisions by various project stakeholders. Start using the metrics  [SECURITY QUALITATIVE METRICS.md](SECURITY QUALITATIVE METRICS.md) 
 
 
 ## Troubleshooting [![Gitter](http://img.shields.io/badge/gitter-join%20chat-1dce73.svg)](https://gitter.im/owasp/github-template)
