@@ -2,38 +2,21 @@
 
 [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects)
 
-## What are OWASP Security Qualitative Metrics 
-The focus of this project is to find out repeatable features for large-scale enterprise web application production process related to OWASP Application Security Verification Standard (OWASP ASVS) requirement list. As a result of a rigorous work including domain analysis for Java language and development frameworks and the examination of a large set of technical documents, 230 security qualitative metrics are discovered, under six categories. These security qualitative metrics are beneficial for security analysts as well as other parties such as designers, developers, and testers. The findings provide a developer/designer point of view and would help to make better decisions related to the environment set up, technology selection, and the architecture, design, and implementation details. As a result of this effort, the overall vulnerability level of the web applications would diminish significantly.
+## What is "OWASP Security Qualitative Metrics Project"
+The focus of this project is to find out repeatable features for large/medium-scale enterprise web application production process related to OWASP Application Security Verification Standard (OWASP ASVS) requirement list. As a result of a rigorous work including domain analysis for Java language and development frameworks and the examination of a large set of technical documents, 230 security qualitative metrics are discovered, under six categories. These security qualitative metrics are beneficial for security analysts as well as other parties such as designers, developers, and testers. The findings provide a developer/designer point of view and would help to make better decisions related to the environment set up, technology selection, architecture, design, and implementation details. As a result of using the Security Qualitative Metrics, the overall vulnerability level of the web applications would diminish significantly and user will know their level of meeting OWASP Application Security Verification Standard (OWASP ASVS).
 
 [![Build Status](https://travis-ci.org/owasp/github-template.svg?branch=master)](https://travis-ci.org/owasp/github-template)
-
-
-
-![OWASP GitHub Template screenshot 2](images/screenshot2.png)
-
-
-![Figure 1](images/screenshot1.png)
-## Background and Environment Description, 
-
-During this work security perspective for a large-scale web application development project was examined. Due to privacy reasons no information that may cause conjecture of the project name, and purposes will be provided. Thus, business requirements and implementation details which are not necessary to mention are out of the scope of this project. However, to describe the security-related decisions and their benefits for the compliance to OWASP standard an overview of the technical infrastructure of the project is provided.
-
-This application was developed by using the integration of contemporary Java technologies forming an advanced structure which facilitate rapid application development and also provide a robust framework to develop the business requirements. On top of this framework, a code generation application which has been modified based on the project’s structure and technologies were utilized during the development. This code generation mechanism further speeded up the development project and provided fully standardized, clean code from front end to back end. Figure 1 shows a simplified infrastructure schema and names of the technologies. Featuring properties are the encapsulation of the most contemporary technologies, standard libraries, use of a layered structure, centralization of controls, utility classes and a standardized code structure. 
-
-![Figure 3](images/screenshot3.png)
-
-## Methodology
-The security qualitative metrics list is the result of examination and evaluation of several resources. As mentioned in the background and environment description part one of the resource was the results of examination of a large scale enterprise web application project. As a part of this investigation the code structure, including the results of automatically generated code parts, manually written code parts, centralized code parts which are related to general structure and decentralized code parts, in-house developed code parts, and third party libraries were examined. Once know-how was gathered related to project structure, and implementation details, each OWASP requirement item was examined in-depth by using inspection and questioning and answering methods with experts of the project including the senior developers, and the architects. During this analysis, the information provided by the OWASP web site was also frequently utilized. When shortcomings related to some OWASP requirements in the sample application are detected, suggestions from technical OWASP documents and other technical reference documents are made to fulfill all the OWASP set, Figure 3. While the overall results are prepared in report format, resolutions from the evaluation results and other technical suggestions are categorized and grouped into categories for reuse. 
-
 
 ## How to Use OWASP Security Qualitative Metrics
 
 These classified findings would be beneficial from the initial phases of application development including analysis, design, implementation, and test. Having this categorized security qualitative metrics would allow knowing the security status and OWASP compliance results for the project, and would help to make better technology, environment, design, and implementation related decisions by various project stakeholders. Start using the metrics  [SECURITY QUALITATIVE METRICS.md](SECURITY QUALITATIVE METRICS.md) 
 
+## Learn More Background and Methodology
+During the creation of metric list a lage list of technical documents along with OWASP documents are examined. In parallel to these efforts, data from a large scale enterprise software development project is used to provide domain information. More details can be found on Methodology and Background page [METHODOLOGY AND BACKGROUND.md](METHODOLOGY AND BACKGROUND.md). 
 
-## Troubleshooting [![Gitter](http://img.shields.io/badge/gitter-join%20chat-1dce73.svg)](https://gitter.im/owasp/github-template)
+## Troubleshooting [![Gitter]
 
-If you need help with the setup please check the
-[TROUBLESHOOTING.md](TROUBLESHOOTING.md) or post your specific problem
+If you need  in understanding the project aims or contents feel free to contact [TROUBLESHOOTING.md](TROUBLESHOOTING.md) or post your specific problem
 or question in the
 [official Gitter Chat](https://gitter.im/owasp/github-template).
 
