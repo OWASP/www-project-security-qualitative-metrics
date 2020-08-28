@@ -1,4 +1,5 @@
 # ![Project Logo](images/logo_100px.png) OWASP Security Qualitative Metrics 
+|
 
 [![GitHub release](https://img.shields.io/github/release/owasp/github-template.svg)](https://github.com/owasp/github-template/releases/latest)
 
@@ -13,13 +14,13 @@ The focus of this project is to find out repeatable features for large/medium-sc
 These classified findings would be beneficial from the initial phases of application development including analysis, design, implementation, and test. Having this categorized security qualitative metrics would allow knowing the security status and OWASP compliance results for the project, and would help to make better technology, environment, design, and implementation related decisions by various project stakeholders. Start using the metrics  [SECURITY QUALITATIVE METRICS.md](./SECURITY-QUALITATIVE-METRICS.md) 
 
 ## Learn More Background and Methodology
-During the creation of metric list a lage list of technical documents along with OWASP documents are examined. In parallel to these efforts, data from a large scale enterprise software development project is used to provide domain information. More details can be found on Methodology and Background page [METHODOLOGY AND BACKGROUND.md](./METHODOLOGY-AND-BACKGROUND.md). 
+During the creation of metric list a lage list of technical documents along with OWASP documents are examined. In parallel to these efforts, data from a large scale enterprise software development project is used to provide domain information. More details can be found on Methodology and Background page [METHODOLOGY AND BACKGROUND.md](www-project-security-qualitative-metrics/METHODOLOGY-AND-BACKGROUND.md
+). 
 
 ## Troubleshooting 
 
-If you need help in understanding or using any of the project outputs feel free to contact [TROUBLESHOOTING.md](TROUBLESHOOTING.md) or post your specific problem
-or question in the
-[official Gitter Chat](https://gitter.im/owasp/github-template).
+If you need help in understanding or using any of the project outputs please check [TROUBLESHOOTING.md](TROUBLESHOOTING.md) or post your specific problem
+or question in the official Gitter Chat](https://gitter.im/owasp/github-template).
 
 ## Contributing [![GitHub contributors](https://img.shields.io/github/contributors/owasp/github-template.svg)](https://github.com/owasp/github-template/graphs/contributors) [![Stories in Ready](https://badge.waffle.io/owasp/github-template.svg?label=ready&title=Ready)](http://waffle.io/owasp/github-template)
 
