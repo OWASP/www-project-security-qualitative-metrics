@@ -1,0 +1,67 @@
+/*
+	Tabbed Panels
+*/
+
+
+/* tabs */
+.tabbed-panels .tab {
+	position: relative;
+	top: 1px;
+}
+
+.tabbed-panels.active > .tab,
+.tabbed-panels.active :not(.tabbed-panels) .tab {
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+}
+
+.tabbed-panels .tab.active {
+	position: relative;
+	z-index: 1;
+	border-bottom-color: white;
+	box-shadow: none;
+	background: white;
+}
+
+.tabbed-panels:not(.closeable) > .tab.active,
+.tabbed-panels:not(.closeable) :not(.tabbed-panels) .tab.active {
+	cursor: default;
+}
+
+
+
+/* panels */
+.tabbed-panels > .panel,
+.tabbed-panels :not(.tabbed-panels) .panel {
+	display: none;
+	border: 1px solid #ccc;
+	padding: 1em;
+	background: white;
+	position: relative;
+}
+
+.tabbed-panels > .panel.active,
+.tabbed-panels :not(.tabbed-panels) .panel.active {
+	display: block;
+}
+
+
+/* hovering panels (for dropdowns) */
+.tabbed-panels.hovering {
+	position: relative;
+}
+
+.tabbed-panels.hovering > .tab,
+.tabbed-panels.hovering :not(.tabbed-panels) .tab {
+	position: relative;
+	z-index: 11;
+}
+
+.tabbed-panels.hovering > .panel,
+.tabbed-panels.hovering :not(.tabbed-panels) .panel {
+	width: 100%;
+	position: absolute;
+	right: 0;
+	top: 100%;
+	z-index: 10;
+}
