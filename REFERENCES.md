@@ -12,5 +12,5 @@ https://www.researchgate.net/publication/331168151_Security_Qualitative_Metrics_
 
 
 
-* [Conference Presentation](resources/Conference_Presentation_Ferda_V1.pptx)
+* [Conference Presentation](./Conference_Presentation_Ferda_V1.pptx)
   
