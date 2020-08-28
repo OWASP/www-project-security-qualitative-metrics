@@ -1,4 +1,4 @@
-# ![Project Logo](images/logo_100px.png) OWASP GitHub Template [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects) [![GitHub release](https://img.shields.io/github/release/owasp/github-template.svg)](https://github.com/owasp/github-template/releases/latest)
+# ![Project Logo](images/logo_100px.png) OWASP Security Qualitative Metrics [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects) [![GitHub release](https://img.shields.io/github/release/owasp/github-template.svg)](https://github.com/owasp/github-template/releases/latest)
 
 [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects)
 
