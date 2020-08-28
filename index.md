@@ -8,6 +8,22 @@ Content1 ...
 Content2 ...
 ---
 
+    ```html
+    <div class="tabbed-panels">
+        <!-- Tabs -->
+        <button class="tab">Tab 1</button>
+        <button class="tab">Tab 2</button>
+
+        <!-- Panels -->
+        <div class="panel">
+            <h1>Panel 1</h1>
+        </div>
+        <div class="panel">
+            <h1>Panel 2</h1>
+        </div>
+    </div>
+    ```
+
 ## What is "OWASP Security Qualitative Metrics Project"
 The focus of this project is to find out repeatable features for large/medium-scale enterprise web application production process related to OWASP Application Security Verification Standard (OWASP ASVS) requirement list. As a result of a rigorous work including domain analysis for Java language and development frameworks and the examination of a large set of technical documents, 230 security qualitative metrics are discovered, under six categories. These security qualitative metrics are beneficial for security analysts as well as other parties such as designers, developers, and testers. The findings provide a developer/designer point of view and would help to make better decisions related to the environment set up, technology selection, architecture, design, and implementation details. As a result of using the Security Qualitative Metrics, the overall vulnerability level of the web applications would diminish significantly and user will know their level of meeting OWASP Application Security Verification Standard (OWASP ASVS).
 
