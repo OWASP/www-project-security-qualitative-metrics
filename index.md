@@ -1,42 +1,23 @@
-# ![Project Logo](images/logo_100px.png) OWASP Security Qualitative Metrics [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects) [![GitHub release](https://img.shields.io/github/release/owasp/github-template.svg)](https://github.com/owasp/github-template/releases/latest)
+# ![Project Logo](images/logo_100px.png) OWASP Security Qualitative Metrics 
+
+(https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects) [![GitHub release](https://img.shields.io/github/release/owasp/github-template.svg)](https://github.com/owasp/github-template/releases/latest)
 
 [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects)
 
-# [Tab Name](#tab/tab-id-1)
-Content1 ...
-# [Tab Name](#tab/tab-id-2)
-Content2 ...
----
-
-    ```html
-    <div class="tabbed-panels">
-        <!-- Tabs -->
-        <button class="tab">Tab 1</button>
-        <button class="tab">Tab 2</button>
-
-        <!-- Panels -->
-        <div class="panel">
-            <h1>Panel 1</h1>
-        </div>
-        <div class="panel">
-            <h1>Panel 2</h1>
-        </div>
-    </div>
-    ```
 
 ## What is "OWASP Security Qualitative Metrics Project"
 The focus of this project is to find out repeatable features for large/medium-scale enterprise web application production process related to OWASP Application Security Verification Standard (OWASP ASVS) requirement list. As a result of a rigorous work including domain analysis for Java language and development frameworks and the examination of a large set of technical documents, 230 security qualitative metrics are discovered, under six categories. These security qualitative metrics are beneficial for security analysts as well as other parties such as designers, developers, and testers. The findings provide a developer/designer point of view and would help to make better decisions related to the environment set up, technology selection, architecture, design, and implementation details. As a result of using the Security Qualitative Metrics, the overall vulnerability level of the web applications would diminish significantly and user will know their level of meeting OWASP Application Security Verification Standard (OWASP ASVS).
 
 ## How to Use OWASP Security Qualitative Metrics
 
-These classified findings would be beneficial from the initial phases of application development including analysis, design, implementation, and test. Having this categorized security qualitative metrics would allow knowing the security status and OWASP compliance results for the project, and would help to make better technology, environment, design, and implementation related decisions by various project stakeholders. Start using the metrics  [SECURITY QUALITATIVE METRICS.md](SECURITY QUALITATIVE METRICS.md) 
+These classified findings would be beneficial from the initial phases of application development including analysis, design, implementation, and test. Having this categorized security qualitative metrics would allow knowing the security status and OWASP compliance results for the project, and would help to make better technology, environment, design, and implementation related decisions by various project stakeholders. Start using the metrics  [SECURITY QUALITATIVE METRICS.md](SECURITY-QUALITATIVE-METRICS.md) 
 
 ## Learn More Background and Methodology
-During the creation of metric list a lage list of technical documents along with OWASP documents are examined. In parallel to these efforts, data from a large scale enterprise software development project is used to provide domain information. More details can be found on Methodology and Background page [METHODOLOGY AND BACKGROUND.md](METHODOLOGY AND BACKGROUND.md). 
+During the creation of metric list a lage list of technical documents along with OWASP documents are examined. In parallel to these efforts, data from a large scale enterprise software development project is used to provide domain information. More details can be found on Methodology and Background page [METHODOLOGY AND BACKGROUND.md](METHODOLOGY-AND-BACKGROUND.md). 
 
-## Troubleshooting [![Gitter]
+## Troubleshooting 
 
-If you need  in understanding the project aims or contents feel free to contact [TROUBLESHOOTING.md](TROUBLESHOOTING.md) or post your specific problem
+If you need help in understanding or using any of the project outputs feel free to contact [TROUBLESHOOTING.md](TROUBLESHOOTING.md) or post your specific problem
 or question in the
 [official Gitter Chat](https://gitter.im/owasp/github-template).
 
@@ -45,10 +26,9 @@ or question in the
 Found a bug? Crashed the tool? Propose a new feature?
 
 Feel free to
-[create an issue](https://github.com/owasp/github-template/issues) or
-[post your ideas in the chat](https://gitter.im/owasp/github-template)!
-Pull requests are also highly welcome - please refer to
-[CONTRIBUTING.md](CONTRIBUTING.md) for details.
+[create an issue](https://github.com/owasp/www-project-security-qualitative-metrics/issues) or
+[post your ideas in the chat](https://gitter.im/owasp-www-project-security-qualitative-metrics)!
+Pull requests are also highly welcome - please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## References
 
@@ -89,6 +69,12 @@ This program is free software: you can redistribute it and/or modify it
 under the terms of the [MIT license](LICENSE). OWASP GitHub Template and
 any contributions are Copyright © by Bjoern Kimminich 2017.
 
+
+# [Tab Name](#tab/tab-id-1)
+Content1 ...
+# [Tab Name](#tab/tab-id-2)
+Content1 ...
+---
 _**TODO:** Replace above text and the contents of the
 [LICENSE file](LICENSE) with
 [chosen open-source license](https://opensource.org/licenses)._
