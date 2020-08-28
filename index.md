@@ -33,8 +33,8 @@ During the creation of metric list a lage list of technical documents along with
 
 ## Troubleshooting 
 
-If you need help in understanding or using any of the project outputs please check [TROUBLESHOOTING.md](TROUBLESHOOTING.md) or post your specific problem
-or question in the official Gitter Chat](https://gitter.im/owasp/github-template).
+If you need help in understanding or using any of the project outputs please check [FAQ.md](FAQ.md) or post your specific problem
+or question in the official Gitter Chat](https://gitter.im/owasp-www-project-security-qualitative-metrics/community).
 
 Found a problem? Propose a new metric? Feel free to post your ideas in the chat](https://gitter.im/owasp-www-project-security-qualitative-metrics/community)!
 Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for details.
