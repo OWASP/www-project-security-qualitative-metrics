@@ -1,21 +1,21 @@
-# Troubleshooting [![Gitter](http://img.shields.io/badge/gitter-join%20chat-1dce73.svg)](https://gitter.im/owasp/github-template)
+# F.A.Q. [![Gitter](https://gitter.im/owasp-www-project-security-qualitative-metrics/community)
 
-_**TODO:** Give general advice how to solve possible issues with your project. Add sub-sections per different topic/aspect of your project._
+## How Security Qualitative Metrics Different From OWASP Application Security Verification Standard (AVSV)
 
-## Topic 1
+- OWASP ASVS has 19 chapters organised according to security topics. Security Qualitative metrics has six groups. These groups are associated to controls and decisions about software security.
 
-- Advice 1
-- Advice 2
-- ...
+## What is the number of metrics? 2
 
-## Topic 2
+- In version 1.0.0 the number of metrics is 230. 
 
-- Advice 3
-- ...
+## How can one relate OWASP Security Qualitative Metrics to OWASP AVSV? 
 
-## ...
+- Each metrics is associated to one or more AVSV items. 
 
-## Miscellaneous
+## What is the coverage level of OWASP Security Qualitative Metrics?
 
-- Advice 4
-- ...
+- Version 1.0.0 is associted to OWASP AVSV version 3.0. For each items in version 3.0, there is one or more items in OWASP Security Qualitative Metrics Lists. 
+
+## Does OWASP Security Qualitative Metrics apply to all web projects?
+
+- Yes.
