@@ -1,3 +1,23 @@
+
+---
+
+layout: col-sidebar
+title: Methodology and Background
+site_side: true
+tags: security-qualitative-metrics, references
+project: true
+level: 2
+type: tool
+pitch: The OWASP Security Qualitative Metrics is the most detailed list of metrics which evaluate security level of web projects. It shows the level of coverage of OWASP ASVS. 
+---
+
+
+# ![Project Logo](images/logo_100px.png) OWASP Security Qualitative Metrics 
+
+
+# [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
+
+
 # References
 
 Sönmez, Ferda Özdemir. "Security Qualitative Metrics for Open Web Application Security Project Compliance." Procedia Computer Science 151 (2019): 998-1003.
