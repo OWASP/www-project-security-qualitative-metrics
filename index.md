@@ -17,8 +17,6 @@ pitch: The OWASP Security Qualitative Metrics is the most detailed list of metri
 # ![Project Logo](images/logo_100px.png) OWASP Security Qualitative Metrics 
 
 
-# [![GitHub release](https://img.shields.io/github/release/owasp/github-template.svg)](https://github.com/owasp/github-template/releases/latest)
-
 # [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
 
 ## What is "OWASP Security Qualitative Metrics Project"
