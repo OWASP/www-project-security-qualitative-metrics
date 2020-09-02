@@ -252,8 +252,9 @@ In this third group,
                                               
 ## Metrics related to Highlights of Code Generation
 
-In this fourth group, 
-                                                                            |     #      |     G    |     Description                                                     |     O     W     A     S     P    |
+In this fourth group, the characterstics related to automatic code generation which are related to the security of the projects are included. Since, details and more detailed security issues would be dependent on the automatic code generator, in this part, only the general principals which matters are included.
+
+|     #      |     G    |     Description                                                     |     O     W     A     S     P    |
 |------------|----------|---------------------------------------------------------------------|----------------------------------|
 |     207    |     D    |     Automatic   code generation without business logic in client    |     1.1                          |
 |     208    |     D    |     Use   of standardized code to eliminate the risk of RFI         |     5.13                         |
@@ -261,7 +262,7 @@ In this fourth group,
 
 ## Metrics related to Highlights of Development Methodologies
 
-In this fifth group, 
+In this fifth group, besides automatic code generation, every team adopts some development methodologies, and principals. The metrics in this part are mainly related to top level design decisions. In this part, users may also find items which are related to very initial project management related decisions.
 
 |     #      |     G    |     Description                                                                                    |     O     W     A     S     P    |
 |------------|----------|----------------------------------------------------------------------------------------------------|----------------------------------|
@@ -281,7 +282,7 @@ In this fifth group,
                         
  ## Metrics related to Highlights of Business Logic
 
-In this sixth group,                
+OWASP points out the importance of business logic related problems.  In this sixth group, security checks which are associated with key business functions that commonly exist in software programs are included.              
 
 |     #      |     G    |     Description                                                                                 |     O     W     A     S     P    |
 |------------|----------|-------------------------------------------------------------------------------------------------|----------------------------------|
