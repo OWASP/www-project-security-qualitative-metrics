@@ -1,4 +1,14 @@
-# F.A.Q. [![Gitter](https://gitter.im/owasp-www-project-security-qualitative-metrics/community)
+
+# ![Project Logo](images/logo2.png) OWASP Security Qualitative Metrics  
+# [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
+ [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
+ [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
+
+
+
+
+# F.A.Q. [![Gitter](https://gitter.im/owasp-www-project-security-qualitative-metrics/community)]
 
 ## How Security Qualitative Metrics Different From OWASP Application Security Verification Standard (AVSV)
 
