@@ -5,7 +5,7 @@ title: References
 site_side: true
 tags: security-qualitative-metrics, references
 project: true
-level: 2
+level: 1
 type: tool
 pitch: The OWASP Security Qualitative Metrics is the most detailed list of metrics which evaluate security level of web projects. It shows the level of coverage of OWASP ASVS. 
 ---
@@ -15,6 +15,9 @@ pitch: The OWASP Security Qualitative Metrics is the most detailed list of metri
 
 
 # [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
+ [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
+ [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
 
 
 # References
