@@ -8,6 +8,7 @@ order: 2
 tags: security-qualitative-metrics
 level: 3
 type: tool
+pitch: pitch: The OWASP Security Qualitative Metrics is the most detailed list of metrics which evaluate security level of web projects. It shows the level of coverage of OWASP ASVS.  
 ---
 
 
