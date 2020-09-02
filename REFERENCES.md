@@ -2,7 +2,7 @@
 ---
 
 layout: col-sidebar
-title: Methodology and Background
+title: References
 site_side: true
 tags: security-qualitative-metrics, references
 project: true
