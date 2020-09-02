@@ -11,7 +11,10 @@ type: tool
 ---
 
 
+# ![Project Logo](images/logo_100px.png) OWASP Security Qualitative Metrics 
 
+
+# [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
 
 
 ## Background and Environment Description, 
