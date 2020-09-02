@@ -3,11 +3,18 @@
 layout: col-sidebar
 title: Methodology and Background
 site_side: true
+tab:true
+order: 2
 tags: security-qualitative-metrics
 project: true
 level: 3
 type: document
 ---
+
+
+
+
+
 ## Background and Environment Description, 
 
 Security qualitative metrics depends on examination of relevant technical documents and literature and doing a domain analysis. In order to provide a real world perspective to the metrics a large-scale web application development project was examined in detail. Due to privacy reasons no information that may cause conjecture of the project name, and purposes will be provided. Thus, business requirements and implementation details which are not necessary to mention are out of the scope of this project. However, to describe the captured security-related decisions and their benefits for the compliance to OWASP standard an overview of the technical infrastructure of the project is provided in Figure 1.
