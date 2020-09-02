@@ -5,8 +5,8 @@ title: OWASP Security Qualitative Metrics
 site_side: true
 tags: security-qualitative-metrics
 project: true
-level: 2
-type: tool
+level: 4
+type: documentation
 pitch: The OWASP Security Qualitative Metrics is the most detailed list of metrics which evaluate security level of web projects. It shows the level of coverage of OWASP ASVS. 
 ---
 
@@ -17,7 +17,7 @@ pitch: The OWASP Security Qualitative Metrics is the most detailed list of metri
 
 # [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
 
-(https://github.com/OWASP/www-project-security-qualitative-metrics/releases/latest)
+# [![OWASP Release](https://github.com/OWASP/www-project-security-qualitative-metrics/releases/latest)
 
 ## What is "OWASP Security Qualitative Metrics Project"
 The focus of this project is to find out repeatable features for large/medium-scale enterprise web application production process related to OWASP Application Security Verification Standard (OWASP ASVS) requirement list. As a result of a rigorous work including domain analysis for Java language and development frameworks and the examination of a large set of technical documents, 230 security qualitative metrics are discovered, under six categories. These security qualitative metrics are beneficial for security analysts as well as other parties such as designers, developers, and testers. The findings provide a developer/designer point of view and would help to make better decisions related to the environment set up, technology selection, architecture, design, and implementation details. As a result of using the Security Qualitative Metrics, the overall vulnerability level of the web applications would diminish significantly and user will know their level of meeting OWASP Application Security Verification Standard (OWASP ASVS).
