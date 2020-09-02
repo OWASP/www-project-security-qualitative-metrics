@@ -1,6 +1,6 @@
 # Contributing 
 
-# ![Project Logo](images/logo_100px.png) OWASP Security Qualitative Metrics 
+# ![Project Logo](images/logo2.png) OWASP Security Qualitative Metrics 
 
 
 # [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
