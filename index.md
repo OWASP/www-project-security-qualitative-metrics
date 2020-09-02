@@ -17,7 +17,7 @@ pitch: The OWASP Security Qualitative Metrics is the most detailed list of metri
 
 # [![GitHub release](https://img.shields.io/github/release/owasp/github-template.svg)](https://github.com/owasp/github-template/releases/latest)
 
-# [![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Incubator_Projects)
+# [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://www.owasp.org/index.php/OWASP_Project_Inventory#tab=Flagship_Projects)
 
 
 ## What is "OWASP Security Qualitative Metrics Project"
@@ -46,4 +46,7 @@ If you want to see the original publication and correponding presentation relate
 
 ## Contributors
 - [Dr. Ferda Özdemir Sönmez](https://www.linkedin.com/in/f-ferda-%C3%B6zdemir-s%C3%B6nmez-pmp-msc-phd-92809719/) 
+#Ready to Contribute?
+The OWASP Security Qualitative Metrics is desired to get community-driven effort and we welcome contributions and feedback.
+If you would like to contribute to this project, by for example using the metrics and providing feedbacks and case-study reports or simply by offering new relevant metrics please reach out to the project leader either via email or via the officia [Gitter Chatroom](https://gitter.im/owasp-www-project-security-qualitative-metrics/community).
 
