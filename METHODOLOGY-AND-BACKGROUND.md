@@ -6,9 +6,8 @@ site_side: true
 tab:true
 order: 2
 tags: security-qualitative-metrics
-project: true
 level: 3
-type: document
+type: tool
 ---
 
 
