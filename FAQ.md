@@ -1,5 +1,5 @@
 
-# ![Project Logo](images/logo2.png) OWASP Security Qualitative Metrics  
+# ![Project Logo](images/logo3_small.png) OWASP Security Qualitative Metrics  
 # [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
