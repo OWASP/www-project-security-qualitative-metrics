@@ -23,7 +23,7 @@ Universidad Cenfotec, San José, Costa Rica
 Programa de Master en Ciberseguridad (Program for Master in Cybersecurity)
 Universidad Cenfotec, San José, Costa Rica
 
--For user experiences and case studies please check [CASE-STUDIES-AND-EXPERIENCES.md](./CASE-STUDIES-AND-EXPERIENCES.md) 
+- For user experiences and case studies please check [CASE-STUDIES-AND-EXPERIENCES.md](./CASE-STUDIES-AND-EXPERIENCES.md) 
 
 - Ready to Contribute?
 The OWASP Security Qualitative Metrics is desired to get community-driven effort and we welcome contributions and feedback.
