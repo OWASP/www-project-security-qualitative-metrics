@@ -45,7 +45,7 @@ If you want to see the original publication and correponding presentation relate
 
 
 ## Contributors
-- [Dr. Ferda Özdemir Sönmez](https://www.linkedin.com/in/f-ferda-%C3%B6zdemir-s%C3%B6nmez-pmp-msc-phd-92809719/) 
+- [Dr. Ferda Özdemir Sönmez](https://www.linkedin.com/in/f-ferda-%C3%B6zdemir-s%C3%B6nmez-pmp-msc-phd-92809719/) has prepared V 1.0.0 of the OWASP Security Qualitative Metrics. In order to learn about other contributors/supporters please check [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - Ready to Contribute?
 The OWASP Security Qualitative Metrics is desired to get community-driven effort and we welcome contributions and feedback.
