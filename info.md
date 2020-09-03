@@ -8,7 +8,7 @@
 ### [Methodology and Background Page](https://owasp.org/www-project-security-qualitative-metrics/METHODOLOGY-AND-BACKGROUND.html)
 ### [FAQ Page](https://owasp.org/www-project-security-qualitative-metrics/FAQ.html)
 ### [Contributors Page](https://owasp.org/www-project-security-qualitative-metrics/CONTRIBUTING.html)
-### [References Page](https://owasp.org/www-project-security-qualitative-metrics/REFERENCES.html/)
+### [References Page](https://owasp.org/www-project-security-qualitative-metrics/REFERENCES.html)
 
  
 ### Downloads or Social Links
