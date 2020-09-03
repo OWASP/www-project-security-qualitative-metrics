@@ -14,7 +14,7 @@
 
 - [Dr. Ferda Özdemir Sönmez](https://www.linkedin.com/in/f-ferda-%C3%B6zdemir-s%C3%B6nmez-pmp-msc-phd-92809719/) 
 
-#-Other Supporters and Contributors
+# Other Supporters and Contributors
 -Rebeca A. Corrales Vargas
 Programa de Master en Ciberseguridad (Program for Master in Cybersecurity)
 Universidad Cenfotec, San José, Costa Rica
