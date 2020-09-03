@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Security Qualitative Metrics
+title: Case Studies and Experiences
 site_side: true
 tags: security-qualitative-metrics
 project: true
