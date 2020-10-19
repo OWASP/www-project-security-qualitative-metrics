@@ -1,7 +1,7 @@
 ### Security Qualitative Metrics Information
 * [Flagship Project(https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
 * [Type of Project](#)
-* [Version ]((https://github.com/OWASP/www-project-security-qualitative-metrics/releases))
+* [Version ](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
 
 ### [Main Page](https://owasp.org/www-project-security-qualitative-metrics/)
 ### [Metrics Page](https://owasp.org/www-project-security-qualitative-metrics/SECURITY-QUALITATIVE-METRICS.html)
