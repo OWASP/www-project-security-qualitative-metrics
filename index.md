@@ -14,7 +14,7 @@ pitch: The OWASP Security Qualitative Metrics is the most detailed list of metri
 
 # ![Project Logo](images/logo3_small.png) OWASP Security Qualitative Metrics  
 # [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
- [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+ [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE)
 
  [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
 
@@ -28,15 +28,15 @@ The focus of this project is to find out repeatable features for large/medium-sc
 These classified findings would be beneficial from the initial phases of application development including analysis, design, implementation, and test. Having this categorized security qualitative metrics would allow knowing the security status and OWASP compliance results for the project, and would help to make better technology, environment, design, and implementation related decisions by various project stakeholders. Start using the metrics  [SECURITY QUALITATIVE METRICS.md](./SECURITY-QUALITATIVE-METRICS.md) 
 
 ## Learn More Background and Methodology
-During the creation of metric list a lage list of technical documents along with OWASP documents are examined. In parallel to these efforts, data from a large scale enterprise software development project is used to provide domain information. More details can be found on Methodology and Background page [METHODOLOGY AND BACKGROUND.md](./METHODOLOGY-AND-BACKGROUND.md
-). 
+During the creation of metric list a large list of technical documents along with OWASP documents are examined. In parallel to these efforts, data from a large scale enterprise software development project is used to provide domain information. More details can be found on Methodology and Background page [METHODOLOGY AND BACKGROUND.md](./METHODOLOGY-AND-BACKGROUND.md). 
+
 
 ## Troubleshooting 
 
 If you need help in understanding or using any of the project outputs please check [FAQ.md](FAQ.md) or post your specific problem
-or question in the official Gitter Chat](https://gitter.im/owasp-www-project-security-qualitative-metrics/community).
+or question in the official [Gitter Chat](https://gitter.im/owasp-www-project-security-qualitative-metrics/community).
 
-Found a problem? Propose a new metric? Feel free to post your ideas in the chat](https://gitter.im/owasp-www-project-security-qualitative-metrics/community)!
+Found a problem? Propose a new metric? Feel free to post your ideas in the [chat](https://gitter.im/owasp-www-project-security-qualitative-metrics/community)!
 Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## References

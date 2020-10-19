@@ -12,7 +12,7 @@ pitch: The OWASP Security Qualitative Metrics is the most detailed list of metri
 
 # ![Project Logo](images/logo3_small.png) OWASP Security Qualitative Metrics  
 # [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
- [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+ [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE)
 
  [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
  
@@ -96,8 +96,8 @@ In the first group, details related to mostly technical decisions are evaluated 
 |     71     |     A    |     Taking   error messages and user alerts from the property files may prevent log   injection                          |     8.8                          |
 |     72     |     A    |     Mark   log entries from external resources such as third-party services by a field                                   |     8.9                          |
 |     73     |     A    |     Filter   external originated log entries before automatic processing of log files                                    |     8.9                          |
-|     74     |     A    |     Log   all user activities with user Id’s to prevent non-repudiation of events                                        |     8.1                          |
-|     75     |     A    |     Use   of soft delete to prevent non-repudiation of user activities                                                   |     8.1                          |
+|     74     |     A    |     Log   all user activities with user Id’s to prevent non-repudiation of events                                        |     8.10                         |
+|     75     |     A    |     Use   of soft delete to prevent non-repudiation of user activities                                                   |     8.10                         |
 |     76     |     A    |     Keep   log files on a different disk partitions with application files                                               |     8.12                         |
 |     77     |     A    |     Use   of common clock among multiple web servers                                                                     |     8.13                         |
 |     78     |     A    |     Use   HTTP header parameters and caching to prevent client side caching (Cache   Control, Pragma)                    |     9.1, 9.4                     |
@@ -108,8 +108,8 @@ In the first group, details related to mostly technical decisions are evaluated 
 |     83     |     A    |     No   sensitive data outside body section of the HTTP page                                                            |     9.3                          |
 |     84     |     A    |     Use   of Captcha in critical query pages                                                                             |     9.8                          |
 |     85     |     A    |     Minimum   data retained on the client side and deleted when user session is over.                                    |     9.9                          |
-|     86     |     A    |     Keep   the creation and update information for all data tables                                                       |     9.1                          |
-|     87     |     A    |     Use   of a structure to store historical access information for critical data                                        |     9.1                          |
+|     86     |     A    |     Keep   the creation and update information for all data tables                                                       |     9.10                         |
+|     87     |     A    |     Use   of a structure to store historical access information for critical data                                        |     9.10                         |
 |     88     |     A    |     Keep character data in char [] not in String to limit   data life                                                    |     9.11                         |
 |     89     |     A    |     Replace   critical data with zeros after usage in memory                                                             |     9.11                         |
 |     90     |     A    |     Http Strict Transport Security (HSTS) in HTTP header to   force mandatory use of HTTPS                               |     10.3, 10.11                  |
@@ -117,7 +117,7 @@ In the first group, details related to mostly technical decisions are evaluated 
 |     92     |     A    |     No   use of certificated in client side                                                                              |     10.5                         |
 |     93     |     A    |     Use   of trusted certificates in the clients                                                                         |     10.5                         |
 |     94     |     A    |     Do   not mix TLS and non-TLS pages                                                                                   |     10.6                         |
-|     95     |     A    |     Set   Public-Key-Pins HTTP Header prevent MITM attacks                                                               |     10.1                         |
+|     95     |     A    |     Set   Public-Key-Pins HTTP Header prevent MITM attacks                                                               |     10.10                        |
 |     96     |     A    |     Define   undesirable HTTP methods in web.xml                                                                         |     11.1                         |
 |     97     |     A    |     Define   loggers in Controllers for undesirable HTTP methods                                                         |     11.1                         |
 |     98     |     A    |     Include   character set definitions in XHTML codes                                                                   |     11.2                         |
@@ -149,7 +149,7 @@ In the first group, details related to mostly technical decisions are evaluated 
 |     124    |     A    |     Isolate external web services and internal service   functions                                                       |     18.9, 18.10                  |
 |     125    |     A    |     Use sandbox for multiple applications sharing a   single server                                                      |     19.4                         |
 |     126    |     A    |     Include security check flags for all system level   languages                                                        |     19.9                         |
-|     127    |     A    |     No application asset (e.g. JavaSript and style sheet   files) should rely on the Internet                            |     19.1                         |
+|     127    |     A    |     No application asset (e.g. JavaSript and style sheet   files) should rely on the Internet                            |     19.10                        |
 
 
 ## Metrics related to Highlights of Technologies
@@ -160,18 +160,18 @@ In this second group, details related to the technologies exist. These technolog
 |------------|----------|--------------------------------------------------------------------------------------------------|----------------------------------|
 |     128    |     B    |     Use   Spring Security for centralized security controls                                      |     1.7                          |
 |     129    |     B    |     Use   of Spring MVC for clear separation of data, view and controller components             |     1.9                          |
-|     130    |     B    |     Use   Spring-MVC to help clearance of client code from secret codes and business   logic.    |     1.1                          |
+|     130    |     B    |     Use   Spring-MVC to help clearance of client code from secret codes and business   logic.    |     1.10                         |
 |     131    |     B    |     Using   bug free technologies having reliable references                                     |     1.11                         |
 |     132    |     B    |     Be   skeptical to newly emerged technologies, libraries, third party tools etc.              |     1.11                         |
 |     133    |     B    |     Using   Spring anti-CSRF tokens to protect from CSRF attacks                                 |     4.13                         |
 |     134    |     B    |     Use   database resource governer to prevent aggregate updates                                |     4.14                         |
 |     135    |     B    |     Avoid   using Java Native lib                                                                |     5.1                          |
 |     136    |     B    |     Using   JSF or similar framework for central validation                                      |     5.6                          |
-|     137    |     B    |     Use   ORM (e.g. Hibernate) to prevent SQL injection                                          |     5.1                          |
+|     137    |     B    |     Use   ORM (e.g. Hibernate) to prevent SQL injection                                          |     5.10                         |
 |     138    |     B    |     Use   of Spring validator                                                                    |     5.16                         |
 |     139    |     B    |     Use   of Spring InitBinder                                                                   |     5.16                         |
 |     140    |     B    |     Differentiation   of request params by java Spring framework                                 |     5.17                         |
-|     141    |     B    |     Use   of Java Regex for email, telephone or similar fields                                   |     5.2                          |
+|     141    |     B    |     Use   of Java Regex for email, telephone or similar fields                                   |     5.20                         |
 |     142    |     B    |     Use   of InnerText instead of innerHTML in Javascript                                        |     5.24                         |
 |     143    |     B    |     Use   of json.parse instead of eval functions in Javascript                                  |     5.25                         |
 |     144    |     B    |     Use   java.security.SecureRandom instead of java.util.random                                 |     7.6, 7.15                    |
@@ -222,8 +222,8 @@ In this third group,
 |     180    |     C    |     Achieve   log files in a separate location to prevent unauthorized modification                                          |     8.11                         |
 |     181    |     C    |     Trusted   certificates should be installed on the servers                                                                |     10.1                         |
 |     182    |     C    |     Check   TLS version for each browser type before production                                                              |     10.8                         |
-|     183    |     C    |     Remove   forward secrecy ciphers from web server configuration files                                                     |     10.1                         |
-|     184    |     C    |     Enable   proper certificate revocation in web server(OCSP Stapling in Apache)                                            |     10.1                         |
+|     183    |     C    |     Remove   forward secrecy ciphers from web server configuration files                                                     |     10.10                        |
+|     184    |     C    |     Enable   proper certificate revocation in web server(OCSP Stapling in Apache)                                            |     10.10                        |
 |     185    |     C    |     Consider the warnings given by the IDE.                                                                                  |     13.1                         |
 |     186    |     C    |     Use of SonarQube for test coverage analysis                                                                              |     13.1                         |
 |     187    |     C    |     URL redirects should be checked or filtered from the   server                                                            |     16.1                         |
@@ -232,7 +232,7 @@ In this third group,
 |     190    |     C    |     Locate   document management system in a separate server                                                                 |     16.6                         |
 |     191    |     C    |     Verify   web server is closed to cross domain requests(which is default behaviour)                                       |     16.7                         |
 |     192    |     C    |     Prevent   client debugging in clients if there is client side running code                                               |     17.8                         |
-|     193    |     C    |     Configure   JVM to often collect to prevent memory data leakage                                                          |     17.1                         |
+|     193    |     C    |     Configure   JVM to often collect to prevent memory data leakage                                                          |     17.10                        |
 |     194    |     C    |     Configure   UTF-8 in the IDE                                                                                             |     18.1                         |
 |     195    |     C    |     Assign   a web service management team for web service open to third parties                                             |     18.2                         |
 |     196    |     C    |     Configure   use of TLS                                                                                                   |     18.5                         |
@@ -256,7 +256,7 @@ In this fourth group, the characterstics related to automatic code generation wh
 
 |     #      |     G    |     Description                                                     |     O     W     A     S     P    |
 |------------|----------|---------------------------------------------------------------------|----------------------------------|
-|     207    |     D    |     Automatic   code generation without business logic in client    |     1.1                          |
+|     207    |     D    |     Automatic   code generation without business logic in client    |     1.10                         |
 |     208    |     D    |     Use   of standardized code to eliminate the risk of RFI         |     5.13                         |
 
 
