@@ -17,7 +17,7 @@ pitch: The OWASP Security Qualitative Metrics is the most detailed list of metri
  [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
  
 
-## Metrics related to Highlights of Application Architecture, Design, and Implementation
+## Metrics Related to Highlights of Application Architecture, Design, and Implementation
 
 In the first group, details related to mostly technical decisions are evaluated for a web application software. These decisions may be related to application architecture, design, and implementation. Technical staff including software developers, architects may benefit this list while designing and implementing software.
 
@@ -152,7 +152,7 @@ In the first group, details related to mostly technical decisions are evaluated 
 |     127    |     A    |     No application asset (e.g. JavaSript and style sheet   files) should rely on the Internet                            |     19.1                         |
 
 
-## Metrics related to Highlights of Technologies
+## Metrics Related to Highlights of Technologies
 
 In this second group, details related to the technologies exist. These technologies may be related to development environment, or may be part of the software such as a framework software. This list may be benefited by the technical stuff as well as project manager and the product owner. The provided information may affect proceutions made for the project. These technological decisions may even lead to architectural decisions. While other parts of the Security Qualitative Metrics do not affect by the technology selections, in this part the user may encounter some technology dependent offers. The user may take these offers as is if the selected technology set match the offered ones. Otherwise, the user may check their selected technologies for similar properties and solutions.
 
@@ -202,7 +202,7 @@ In this second group, details related to the technologies exist. These technolog
                                                                                             |                             
 
 
-## Metrics related to Highlights of Environment
+## Metrics Related to Highlights of Environment
 
 In this third group, 
 
@@ -250,7 +250,7 @@ In this third group,
                                                                                                                           
                                                                                                                           
                                               
-## Metrics related to Highlights of Code Generation
+## Metrics Related to Highlights of Code Generation
 
 In this fourth group, the characterstics related to automatic code generation which are related to the security of the projects are included. Since, details and more detailed security issues would be dependent on the automatic code generator, in this part, only the general principals which matters are included.
 
@@ -260,7 +260,7 @@ In this fourth group, the characterstics related to automatic code generation wh
 |     208    |     D    |     Use   of standardized code to eliminate the risk of RFI         |     5.13                         |
 
 
-## Metrics related to Highlights of Development Methodologies
+## Metrics Related to Highlights of Development Methodologies
 
 In this fifth group, besides automatic code generation, every team adopts some development methodologies, and principals. The metrics in this part are mainly related to top level design decisions. In this part, users may also find items which are related to very initial project management related decisions.
 
@@ -280,7 +280,7 @@ In this fifth group, besides automatic code generation, every team adopts some d
 |     220    |     E    |     Create a project package structure document                                                    |     19.1                         |
                         
                         
- ## Metrics related to Highlights of Business Logic
+## Metrics Related to Highlights of Business Logic
 
 OWASP points out the importance of business logic related problems.  In this sixth group, security checks which are associated with key business functions that commonly exist in software programs are included.              
 
