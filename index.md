@@ -5,7 +5,7 @@ title: OWASP Security Qualitative Metrics
 site_side: true
 tags: security-qualitative-metrics
 project: true
-level: 4
+level: 2
 type: documentation
 pitch: The OWASP Security Qualitative Metrics is the most detailed list of metrics which evaluate security level of web projects. It shows the level of coverage of OWASP ASVS. 
 ---
