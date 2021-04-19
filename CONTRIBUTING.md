@@ -5,24 +5,17 @@ title: OWASP Security Qualitative Metrics Contributors
 site_side: true
 tags: security-qualitative-metrics
 project: true
-level: 4
 type: documentation
 pitch: The OWASP Security Qualitative Metrics is the most detailed list of metrics which evaluate security level of web projects. It shows the level of coverage of OWASP ASVS. 
 ---
 
 # Contributing 
 
-# ![Project Logo](images/logo3_small.png) OWASP Security Qualitative Metrics 
+# ![Project Logo](assets/images/logo3_small.png) OWASP Security Qualitative Metrics
 
-
-# [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
- [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE)
-
- [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
-
-
-
-
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://owasp.org/projects/)
+[![GitHub License](https://img.shields.io/github/license/OWASP/www-project-security-qualitative-metrics)](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/OWASP/www-project-security-qualitative-metrics)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
 
 ## [Dr. Ferda Özdemir Sönmez](https://www.linkedin.com/in/f-ferda-%C3%B6zdemir-s%C3%B6nmez-pmp-msc-phd-92809719/) 
 
@@ -44,5 +37,3 @@ If you would like to contribute to this project, by for example using the metric
 Found a problem? Propose a new feature? Need consultancy? 
 
 Feel free to contact the project leader. 
-
-

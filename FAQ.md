@@ -5,22 +5,19 @@ title: Frequently Asked Questions
 site_side: true
 tags: security-qualitative-metrics, background, methodology
 project: true
-level: 4
 type: document
 pitch: The OWASP Security Qualitative Metrics is the most detailed list of metrics which evaluate security level of web projects. It shows the level of coverage of OWASP ASVS. 
 ---
 
+# ![Project Logo](assets/images/logo3_small.png) OWASP Security Qualitative Metrics
 
-# ![Project Logo](images/logo3_small.png) OWASP Security Qualitative Metrics  
-# [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship-blue.svg)](https://owasp.org/projects/)
- [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE)
+[![OWASP Incubator](https://img.shields.io/badge/owasp-incubator-blue.svg)](https://owasp.org/projects/)
+[![GitHub License](https://img.shields.io/github/license/OWASP/www-project-security-qualitative-metrics)](https://github.com/OWASP/www-project-security-qualitative-metrics/blob/master/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/OWASP/www-project-security-qualitative-metrics)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
 
- [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/OWASP/www-project-security-qualitative-metrics/releases)
+# F.A.Q. 
 
-
-
-
-# F.A.Q. [![Gitter](https://gitter.im/owasp-www-project-security-qualitative-metrics/community)]
+[Gitter](https://gitter.im/owasp-www-project-security-qualitative-metrics/community)
 
 ## How Security Qualitative Metrics Different From OWASP Application Security Verification Standard (ASVS)
 
